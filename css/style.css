@@ -154,6 +154,12 @@
     cursor: pointer;
 }
 
+.pic_hol{
+    
+    padding: 0 5%;
+    
+}
+
 .most_re_bg{
      padding: 50px 0;
     background:url(../images/slider_bg.png) repeat-x;
